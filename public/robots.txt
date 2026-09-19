@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://[EDIT-your-domain]/sitemap.xml
